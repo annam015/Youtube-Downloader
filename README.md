@@ -1,4 +1,4 @@
-# Youtube-Downloader
+# Youtube Downloader
 
 ## Description
 This app allows you to download videos from [YouTube](https://www.youtube.com/). Enter the YouTube video URL and click the "Download" button to start the download process.
